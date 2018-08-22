@@ -1,6 +1,6 @@
 {
   "name": "think-weapp-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "需要配合腾讯云小程序客户端sdk一起使用 [`wafer-client-sdk`](https://github.com/tencentyun/wafer-client-sdk)",
   "main": "index.js",
   "directories": {
