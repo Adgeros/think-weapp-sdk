@@ -22,7 +22,7 @@ npm install think-weapp-sdk --save
 ```
 // 这里需要用到 redis ，sdk把session存储到了 redis 中
 const Redis = require('think-redis');
-const wepp = require('./service/think-wapp-sdk');
+const wepp = require('think-wapp-sdk');
 ```
 `Controller`中使用
 ```
